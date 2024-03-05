@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Abhishek Anand (@abhishekanandiimr)
-- 👀 I’m interested in Machine Learning and Deep Learning 
-- 🌱 I’m currently a Master's Student at Plaksha University, Mohali, India.
-- 💞️ I’m looking to collaborate on ML, Deep Learning Projects
+- 👀 I’m Data Scientist with experience in Machine Learning, Deep Learning, NLP and GenAI
+- 🌱 I’m currently working at HRS Group
 - 📫 I can be reached at abhishek.anand@plaksha.edu.in
 
 <!---
