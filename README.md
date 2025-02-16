@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Abhishek Anand (@abhishekanandiimr)
-- 👀 I’m Data Scientist with experience in Machine Learning, Deep Learning, NLP and GenAI
-- 🌱 I’m currently working at HRS Group
+- 👀 I’m Data Engineering with experience in AWS, Python, Spark, Machine Learning, Deep Learning, NLP and GenAI
 - 📫 I can be reached at abhishek.anand@plaksha.edu.in
 
 <!---
